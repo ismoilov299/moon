@@ -13,7 +13,7 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 ## Installation
 
 ```sh
-$ git clone https://github.com/thehamkercat/LunaChatBot
+$ git clone https://github.com/ismoilov299/moon
 $ cd LunaChatBot
 $ pip3 install -U -r requirements.txt
 $ cp sample_config.py config.py
@@ -26,7 +26,7 @@ $ python3 luna.py
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheHamkerCat/LunaChatBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ismoilov299/moon/tree/master)
 
 
 ## Docker
