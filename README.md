@@ -1,8 +1,7 @@
-# LunaChatBot
+# ChatBot
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
 
-<img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
 
 ## Requirements
 
@@ -36,7 +35,3 @@ Follow Installation Guide.
 $ sudo docker build -t luna .
 $ sudo docker run luna
 ```
-
-## Note
-
-- For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
